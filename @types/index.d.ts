@@ -1,4 +1,4 @@
-export = scream;
+export default scream;
 export as namespace scream;
 
 declare namespace scream {
